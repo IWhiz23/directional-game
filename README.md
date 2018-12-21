@@ -9,5 +9,4 @@ If user does not input direction before timer expires, no points is awarded and 
 # Progress
 Features Completed -
 1) User is able to move pointing device in the direction character is facing.
-Features Incomplete -
-1) If the user does not input direction before the timer expires, the activites order will not be changed.
+2) If the user does not input direction before the timer expires, the activites order will be changed.
